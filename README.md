@@ -1,8 +1,8 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mutabay/)
 
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-### Glad to see you here! &nbsp;
-
+<p>Welcome to my page! </br> I'm Mustafa Tayyip, Senior Software Engineering student from <img src="https://cdn-icons-png.flaticon.com/512/197/197518.png" width="13"/> <b>Istanbul, Turkey</b></p>
 📈 **My GitHub Stats:**
 
 <p>
