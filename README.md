@@ -1,7 +1,7 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mutabay/)
 
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mutabay.mutabay)
+### Glad to see you here! &nbsp;
 
 📈 **My GitHub Stats:**
 
