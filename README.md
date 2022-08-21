@@ -5,7 +5,6 @@
 
 <p>Welcome to my page! </br> I'm Mustafa Tayyip, Software Engineering student from <img src="https://cdn-icons-png.flaticon.com/512/197/197518.png" width="13"/> <b>Istanbul, Turkey</b>, You can find in here most fields of computer science's repositories, including Web development, Internet of Things, Embedded Linux, and Machine Learning, Natural Language Processing. 
  </p>
-📈 **My GitHub Stats:**
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutabay&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
