@@ -3,7 +3,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Mustafa Tayyip, Software Engineering student from <img src="https://cdn-icons-png.flaticon.com/512/197/197518.png" width="13"/> <b>Istanbul, Turkey</b>, You can find in here most fields of computer science's repositories, including Web development, Internet of Things, Embedded Linux, and Machine Learning, Natural Language Processing. 
+<p>Welcome to my page! </br> I'm Mustafa Tayyip, Software Engineering student from <img src="https://cdn-icons-png.flaticon.com/512/197/197518.png" width="13"/> <b>Istanbul, Turkey</b>, You can find in here most fields of computer science's repositories, including Web development, Internet of Things, Embedded Linux, and Machine Learning, Natural Language Processing, Computer Vision. 
  </p>
 
 <p>
