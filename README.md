@@ -3,7 +3,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Mustafa Tayyip, You can find in here some fields of computer science's repositories, including Web development, Internet of Things, Embedded Linux, Machine Learning, Natural Language Processing, and  Computer Vision. 
+<p>Welcome to my page! </br> I'm Mustafa Tayyip, passionate about exploring various areas of computer science. My repositories include projects related to web development, IoT, embedded Linux, machine learning, natural language processing, and computer vision. Feel free to explore
  </p>
 
 <p>
